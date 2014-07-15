@@ -1,7 +1,7 @@
 Android-Battery-Monitor
 =======================
 
-A Prototype Android App which tells you how much power has been consumed over an elapsed time.
+A very primative Android App which tells you how much power has been consumed over an elapsed time.
 
 
 **=== Creation ===**  
